@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/spending-analysis/static/css/main.be0061d6.css",
-    "main.js": "/spending-analysis/static/js/main.ec6550ad.js",
+    "main.css": "/spending-analysis/static/css/main.84ce3378.css",
+    "main.js": "/spending-analysis/static/js/main.cf83682a.js",
     "index.html": "/spending-analysis/index.html",
-    "main.be0061d6.css.map": "/spending-analysis/static/css/main.be0061d6.css.map",
-    "main.ec6550ad.js.map": "/spending-analysis/static/js/main.ec6550ad.js.map"
+    "main.84ce3378.css.map": "/spending-analysis/static/css/main.84ce3378.css.map",
+    "main.cf83682a.js.map": "/spending-analysis/static/js/main.cf83682a.js.map"
   },
   "entrypoints": [
-    "static/css/main.be0061d6.css",
-    "static/js/main.ec6550ad.js"
+    "static/css/main.84ce3378.css",
+    "static/js/main.cf83682a.js"
   ]
 }
